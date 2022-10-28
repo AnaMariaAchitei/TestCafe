@@ -1,0 +1,17 @@
+{
+  "name": "testare-workshop",
+  "version": "1.0.0",
+  "description": "Workshop Testare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "mocha": "^10.1.0",
+    "pactum": "^3.2.3",
+    "testcafe": "^2.0.1"
+  }
+}
